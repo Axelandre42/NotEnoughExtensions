@@ -1,4 +1,4 @@
-# NotEnoughExtensions -- More things for more mods !
+# NotEnoughExtensions &ndash; More things for more mods !
 
 __NotEnoughExtensions__ is a mod extender : it will add many things to some mods.
 
